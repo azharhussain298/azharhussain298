@@ -43,12 +43,21 @@
         <img src="https://icons-for-free.com/iff/png/512/argocd-1331550886883580947.png" width="48" height="48" alt="ArgoCD" />
       <br><span style="font-size: 14px;">ArgoCD</span>
     </td>
+
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+    <br><span style="font-size: 14px;">VSCode</span>
+  </td>
+
+
       </tr>
        <tr>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
-      <br><span style="font-size: 14px;">VSCode</span>
-    </td>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+          </a>
+          <br><span style="font-size: 14px;">Python</span>
+        </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
       <br><span style="font-size: 14px;">Linux</span>
@@ -98,11 +107,6 @@
 
   </tr>
   <tr>
-        <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-      </a>
-      <br><span style="font-size: 14px;">Python</span>
-    </td>
+
   </tr>  
 </table>
