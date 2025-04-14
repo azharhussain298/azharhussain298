@@ -44,7 +44,7 @@
       <br><span style="font-size: 14px;">ArgoCD</span>
     </td>
       </tr>
-  <tr>
+       <tr>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
       <br><span style="font-size: 14px;">VSCode</span>
@@ -64,7 +64,7 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="48" height="48" />
       <br><span style="font-size: 14px;">Jenkins</span>
-    </td>
+      </td>
             <td align="center" width="92">
         <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="Github Actions" />
       <br><span style="font-size: 11px;">GitHub Actions</span>
@@ -73,9 +73,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="48" height="48" alt="Ansible" />
       <br><span style="font-size: 14px;">Ansible</span>
     </td>
-  </tr>
-  
-  <tr>
+   </tr>
+   <tr>
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="48" height="48" alt="CPanel" />
       <br><span style="font-size: 14px;">CPanel</span>
@@ -87,7 +86,7 @@
     <td align="center" width="96">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3521604-2945048.png?f=webp" width="48" height="48" alt="Nginx" />
       <br><span style="font-size: 14px;">Nginx</span>
-    </td>
+     </td>
            <td align="center" width="96">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVYJ4XL53FWe9quGVb_cFryEo8J3m2OeYdQ&s" width="48" height="48" alt="MS SQL" />
       <br><span style="font-size: 14px;">MS SQL</span>
@@ -98,7 +97,6 @@
     </td>
 
   </tr>
-
   <tr>
         <td align="center" width="96">
       <a href="#macropower-tech">
