@@ -1,5 +1,5 @@
 👋 Hello Everyone! Welcome to my Github profile. My name is **AZHAR HUSSAIN**
--  I am a Multi-Cloud & DevOps Engineer.
+-  I am a Multi-Cloud Support & DevOps Engineer.
 -  Experienced in managing & troubleshooting multi-cloud environments, including Amazon Web Services(AWS) & Google Cloud Platform (GCP).
 -  Proficient in DevOps practices and tools to automate and streamline operations.
 -  Passionate about learning and implementing new technologies to improve system efficiency and performance.
@@ -10,6 +10,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/azhar-hussain-9335bb265)
+
 [![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:azhussain114@gmail.com)
 
 
@@ -22,6 +23,10 @@
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="aws" />
       <br><span style="font-size: 14px;">AWS</span>
     </td>
+    <!-- <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
+      <br><span style="font-size: 14px;"> Azure</span>
+    </td> -->
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
       <br><span style="font-size: 14px;">GCP</span>
@@ -75,7 +80,10 @@
   </tr>
   
   <tr>
-
+        <!-- <td align="center" width="96">
+        <img src="https://cpanel.net/wp-content/themes/cPbase/assets/img/logos/WHM_orange.svg" width="48" height="48" alt="WHM" />
+      <br><span style="font-size: 14px;">WHM</span>
+    </td> -->
     <td align="center" width="96">
         <img src="https://www.svgrepo.com/show/353612/cpanel.svg" width="48" height="48" alt="CPanel" />
       <br><span style="font-size: 14px;">CPanel</span>
@@ -88,7 +96,10 @@
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-nginx-3521604-2945048.png?f=webp" width="48" height="48" alt="Nginx" />
       <br><span style="font-size: 14px;">Nginx</span>
     </td>
-
+    <!-- <td align="center" width="96">
+        <img src="https://www.logo.wine/a/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.svg" width="48" height="48" alt="Tomcat" />
+      <br><span style="font-size: 14px;">Tomcat</span>
+    </td> -->
         <td align="center" width="96">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVYJ4XL53FWe9quGVb_cFryEo8J3m2OeYdQ&s" width="48" height="48" alt="MS SQL" />
       <br><span style="font-size: 14px;">MS SQL</span>
@@ -101,15 +112,36 @@
   </tr>
 
   <tr>
-
+      <!-- <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><span style="font-size: 14px;">HTML</span>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><span style="font-size: 14px;">CSS</span>
+    </td> -->
         <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
       </a>
       <br><span style="font-size: 14px;">Python</span>
     </td>
-
-
+        <!-- <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" width="48" height="48" alt="SonarQube" />
+      <br><span style="font-size: 14px;">SonarQube</span>
+    </td>
+        <td align="center" width="96">
+        <img src="https://k21academy.com/wp-content/uploads/2021/04/trivy-logo-shape.png" width="48" height="48" alt="Trivy" />
+      <br><span style="font-size: 14px;">Trivy</span>
+    </td>
+        <td align="center" width="92">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LRmXo6Pa1TWoekkSLZPnXGYJC6vTWhq1-Q&s" width="45" height="45" alt="PfSense Firewall" />
+      <br><span style="font-size: 11px;">PfSense Firewall</span>
+    </td>
+        <td align="center" width="92">
+        <img src="https://cdn.worldvectorlogo.com/logos/citrix.svg" width="45" height="45" alt="Citrix Xenserver" />
+      <br><span style="font-size: 11px;">Citrix Xenserver</span>
+    </td> -->
 
   </tr>  
 </table>
